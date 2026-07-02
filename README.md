@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amogh Athimamula</h1>
 <h3 align="center">A student at Northeastern studying Computer Science and AI</h3>
 
-- 🔭 I’m currently working at Generate **CineCircle**
+- 🔭 I'm currently interning as a **Software Engineer at Chewy** this summer
 
-- 🌱 I’m currently learning **dsa and algos!**
+- 🌱 I’m currently learning how to leverage **AI agents**
 
 - 💬 Ask me about **my research, my club and professional experiences, and my personal projects!**
 
-- 📫 How to reach me **athimamula.a@northeastern.edu**
+- 📫 How to reach me **amoghrecruiting@gmail.com** or **athimamula.a@northeastern.edu**
 
 - ⚽️ Fun fact **I am a licensed referee**
 
