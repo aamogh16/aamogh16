@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=aamogh16&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I'm currently building **Toggo**, a group travel planning app (React Native, Go, PostgreSQL, Redis, AWS)
-- 💼 Previously: Software Engineer Intern @ **Chewy**, Infrastructure Co-op @ **Wellington Management**
+- 🔭 I'm currently a **Software Engineer Intern at Chewy**
+- 🚀 Recently shipped **Toggo**, a group travel planning app (React Native, Go, PostgreSQL, Redis, AWS)
+- 💼 Previously: Infrastructure Co-op @ **Wellington Management**
 - 🌱 Currently exploring **AI agents** and quant/trading systems
 - 💬 Ask me about my internships, my club work, or my personal projects
 - ⚽️ Fun fact: I've been a licensed soccer referee since 7th grade
+- 🌐 **amoghathimamula.com**
 - 📫 Reach me at **amoghrecruiting@gmail.com** or **athimamula.a@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,18 +36,4 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aamogh16&show_icons=true&theme=tokyonight&count_private=true" alt="Amogh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamogh16&theme=tokyonight" alt="Amogh's streak stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamogh16&layout=compact&theme=tokyonight" alt="Amogh's top languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamogh16&theme=tokyo-night" alt="Amogh's contribution graph" width="90%" />
 </p>
